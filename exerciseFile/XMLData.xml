@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User>
+        <Name>John Doe</Name>
+        <ContactNumber>0123456789</ContactNumber>
+        <Email>john.doe@example.com</Email>
+        <Account>
+            <AccountNumber>1234567890123</AccountNumber>
+            <AccountType>S</AccountType>
+            <Balance>12345678</Balance>
+        </Account>
+    </User>
+    <User>
+        <Name>Jane Smith</Name>
+        <ContactNumber>0987654321</ContactNumber>
+        <Email>jane.smith@example.com</Email>
+        <Account>
+            <AccountNumber>9876543210987</AccountNumber>
+            <AccountType>C</AccountType>
+            <Balance>87654321</Balance>
+        </Account>
+    </User>
+</Users>

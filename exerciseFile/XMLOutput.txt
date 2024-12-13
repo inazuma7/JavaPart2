@@ -1,0 +1,14 @@
+Name: John Doe
+Contact Number: 0123456789
+Email: john.doe@example.com
+Account Number: 1234567890123
+Account Type: S
+Balance: 123456.78
+-----------------------------
+Name: Jane Smith
+Contact Number: 0987654321
+Email: jane.smith@example.com
+Account Number: 9876543210987
+Account Type: C
+Balance: 876543.21
+-----------------------------
